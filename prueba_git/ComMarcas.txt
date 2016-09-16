@@ -1,0 +1,11 @@
+Lg
+Samsung
+Dell
+Hp
+Sony
+Toshiba
+Lenovo
+Mac
+Acer
+Asus
+MSI

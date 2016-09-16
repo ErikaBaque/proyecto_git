@@ -1,0 +1,11 @@
+logo_lg.png
+logo_samsung.png
+logo_dell.png
+logo_hp.png
+logo_sony.png
+logo_toshiba.jpg
+logo_lenovo.jpg
+logo_mac.jpg
+logo_acer.jpg
+logo_asus.png
+logo_msi.jpg
